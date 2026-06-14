@@ -1,0 +1,6 @@
+{
+  "name": "Company Brain",
+  "description": "Enterprise institutional-memory and skills graph platform powered by autonomous AI agents, persistent behaviors, and strict governance controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
